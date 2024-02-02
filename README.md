@@ -1,4 +1,4 @@
-<h1>Hey There👋</h1>
+<h1 align="center">Hi there👋</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+MD+Abudanish)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
