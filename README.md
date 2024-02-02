@@ -1,4 +1,6 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/29/Maxtix.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Maxtix.gif" alt="abudanish-8280" />
 
 <h1 align="center">Hi 👋, I'm MD Abudanish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -11,12 +13,13 @@
 
 - 📫 How to reach me **abudanishmd@gmail.com**
 
-- ⚡ Fun fact **I Think I can Do everything whatever you think in your mind**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abudanishmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abudanishmd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-abudanish-a88348224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abudanish-a88348224" height="30" width="40" /></a>
+<a href="https://fb.com/md.abudanish.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abudanish.5" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammedabudanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedabudanish" height="30" width="40" /></a>
 </p>
 
